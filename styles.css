@@ -120,11 +120,11 @@ button {
 form {
     background: var(--color-darkblue-alpha);
     padding: 2.5rem 0.625rem;
-    border-radius: 1.5rem 1.5rem 0 0;
     -webkit-border-radius: 1.5rem 1.5rem 0 0;
     -moz-border-radius: 1.5rem 1.5rem 0 0;
     -ms-border-radius: 1.5rem 1.5rem 0 0;
     -o-border-radius: 1.5rem 1.5rem 0 0;
+    border-radius: 1.5rem 1.5rem 0 0;
 }
 
 @media (min-width: 480px) {
@@ -178,10 +178,10 @@ form {
     padding: 0.75rem;
     background: var(--color-green);
     color: inherit;
-    border-radius: 10px;
     cursor: pointer;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
+    border-radius: 10px;
 }
